@@ -1,0 +1,35 @@
+@model IEnumerable<Contato>
+@using Microsoft.AspNetCore.Http
+@{
+
+    ViewData["Title"] = "Inbox";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Caixa de Entrada</h1>
+</div>
+
+<div class="container">
+    <div class="row d-flex justify-content-center">
+        @foreach (Contato cont in Model)
+
+
+
+        {
+            <div class="card mb-3 mr-3" style="width: 100rem;">
+                <img src="@cont.Readed" class="card-img-top" alt="Inbox">
+                <div class="card-body">
+                    <h5 class="card-title">@cont.Subject </h5>
+                    <p>@cont.Name </p>
+                    <p>@cont.ContactNum <a href="mailto:@cont.Email">
+                            < @cont.Email>
+                        </a></p>
+                    <p class="card-text">@cont.Message</p>
+                    <a href="/Contato/Editar?Id=@cont.Id" class="btn btn-outline-success">Visualizado</a>
+                    <a href="/Contato/Excluir?Id=@cont.Id" class="btn btn-outline-danger">Excluir</a>
+                </div>
+            </div>
+
+        }
+    </div>
+</div>

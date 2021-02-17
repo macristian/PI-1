@@ -1,0 +1,39 @@
+@model IEnumerable<Conteudo>
+@using Microsoft.AspNetCore.Http
+@{
+
+    ViewData["Title"] = "Conteúdos";
+}
+
+<div class="container">
+    <img src="~/img/banner-legislacao.jpg" width="100%" />
+</div>
+<br>
+
+@ViewBag.MsgExcluirC
+<div class="container">
+    <div class="row d-flex justify-content-center">
+        @foreach (Conteudo c in Model)
+
+        {
+            <div class="card mb-3 mr-3" style="width: 20rem;">
+                <img src="@c.Image" class="card-img-top" alt="@c.Title">
+                <div class="card-body">
+                    <h5 class="card-title">@c.Title</h5>
+                    <p class="card-text">@c.Content</p>
+                    @if (Context.Session.GetString("idAdm") != null)
+                    {
+                        <a href="/Conteudo/Editar?Id=@c.Id" class="btn btn-outline-primary">Editar</a>
+                        <a href="/Conteudo/Excluir?Id=@c.Id" class="btn btn-outline-danger">Excluir</a>
+
+                    }
+                    @if (Context.Session.GetString("idAdm") == null)
+                    {
+                        <a href="@c.BtnLink" class="btn btn-success" target="_blank">Acessar</a>
+                    }
+                </div>
+            </div>
+
+        }
+    </div>
+</div>

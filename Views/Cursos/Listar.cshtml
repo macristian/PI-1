@@ -1,0 +1,43 @@
+@model IEnumerable<Cursos>
+@using Microsoft.AspNetCore.Http
+@{
+
+    ViewData["Title"] = "Cursos";
+}
+
+<div class="container">
+    <img src="~/img/banner-cursos.jpg" width="100%" />
+</div>
+<br>
+
+@ViewBag.MsgExcluirC
+<div class="container">
+    <div class="row d-flex justify-content-center">
+        @foreach (Cursos c in Model)
+
+        {
+            <div class="card mb-3 mr-3" style="width: 20rem;">
+                <img src="@c.ThumbnailUri" class="card-img-top" alt="@c.NameCourse">
+                <div class="card-body">
+                    <h5 class="card-title">@c.NameCourse @c.Workload</h5>
+                    <p>Código: @c.IdCourse</p>
+
+                    <p class="card-text">@c.DetailsCourse</p>
+                    @if (Context.Session.GetString("idAdm") != null)
+                    {
+                        <a href="/Cursos/Editar?IdCourse=@c.IdCourse" class="btn btn-outline-primary">Editar</a>
+                        <a href="/Cursos/Excluir?IdCourse=@c.IdCourse" class="btn btn-outline-danger">Excluir</a>
+
+                    }
+                    @if (Context.Session.GetString("idAdm") == null)
+                    {
+                        <a class="btn btn-success" asp-area="" asp-controller="Contato" asp-action="Cadastro">Tenho
+                            interesse</a>
+
+                    }
+                </div>
+            </div>
+
+        }
+    </div>
+</div>

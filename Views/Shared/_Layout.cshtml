@@ -1,0 +1,108 @@
+﻿@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Scisense</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-success border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Scisense</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home"
+                                asp-action="Institucional">Institucional</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home"
+                                asp-action="Servicos">Serviços</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Cursos"
+                                asp-action="Listar">Cursos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Conteudo"
+                                asp-action="Listar">Legislação</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Contato"
+                                asp-action="Cadastro">Contato</a>
+                        </li>
+                    </ul>
+                </div>
+                <div style="float:right;">
+                    <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-item">
+                                <a href="/Administrador/Login" id="menuAdmin"><button type="button"
+                                        class="btn btn-outline-light">Adm</button></a>
+                            </li>
+                            @if (Context.Session.GetString("idAdm") != null)
+                            {
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark dropdown-toggle" data-toggle="dropdown" href="#"></a>
+                                    <div class="dropdown-menu" aria-labelledby="menuAdmin">
+                                        <a class="dropdown-item" href="/Contato/Listar">Inbox</a>
+                                        <a class="dropdown-item" href="/Conteudo/Listar">Editar Conteúdo</a>
+                                        <a class="dropdown-item" href="/Conteudo/Cadastro">Cadastrar Conteúdo</a>
+                                        <a class="dropdown-item" href="/Cursos/Listar">Editar Cursos</a>
+                                        <a class="dropdown-item" href="/Cursos/Cadastro">Cadastrar Curso</a>
+                                        <hr class="dropdown-divider">
+                                        <a class="dropdown-item" href='@Url.Action("Logout", "Administrador")'> Sair</a>
+                                    </div>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <br><br><br><br><br>
+    <footer class="border-top footer text-muted" style="background-color:#4CAF50;">
+        <div class="container">
+            <center>
+                <table border="0" width="100%">
+                    <tr>
+                        <td><center><img src="~/img/phone-call.svg" width="6%" />
+                            <h5><span style="color: #ffffff;">82 996 108 865</span> </h5></center>
+                        </td>
+                        <td><center><img src="~/img/pin.svg" width="6%" />
+                            <h5><span style="color: #ffffff;">Universidade Federal de Alagoas - UFAL <br> Campus de
+                                    Engenharia e Ciências Agrárias – CECA<br>Laboratório de Propagaçãode
+                                    Plantas<br> BR105, Km 85, S/N – Mata do Rolo <br> CEP 57100-000 – Rio Largo,
+                                    AL</span></h5></center>
+                        </td>
+                        <td><center><img src="~/img/arroba.svg" width="6%" />
+                            <h5><span style="color: #ffffff;">www.sci.tec.br <br> scisense.tec@gmail.com</span></h5></center>
+                        </td>
+                    </tr>
+                </table>
+            </center>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+
+</html>

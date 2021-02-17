@@ -1,0 +1,93 @@
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.csprojAssemblyReference.cache
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.AssemblyInfoInputs.cache
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.AssemblyInfo.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.csproj.CoreCompileInputs.cache
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.MvcApplicationPartsAssemblyInfo.cache
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.RazorAssemblyInfo.cache
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.RazorAssemblyInfo.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/appsettings.json
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/Scisense
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/Scisense.deps.json
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/Scisense.runtimeconfig.json
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/Scisense.runtimeconfig.dev.json
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/Scisense.dll
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/Scisense.pdb
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/Scisense.Views.dll
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/Scisense.Views.pdb
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.TagHelpers.input.cache
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.TagHelpers.output.cache
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.RazorCoreGenerate.cache
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.RazorTargetAssemblyInfo.cache
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.RazorTargetAssemblyInfo.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.Views.pdb
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.csproj.CopyComplete
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/staticwebassets/Scisense.StaticWebAssets.Manifest.cache
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/staticwebassets/Scisense.StaticWebAssets.xml
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.dll
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.pdb
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Scisense.genruntimeconfig.cache
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Razor/Views/Cursos/Cadastro.cshtml.g.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Razor/Views/Cursos/Editar.cshtml.g.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Razor/Views/Cursos/Listar.cshtml.g.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Razor/Views/Matricula/Cadastro.cshtml.g.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Razor/Views/Matricula/Editar.cshtml.g.cs
+/media/cristian/Seagate Expansion Drive/CBS/Cursos/SENAC/Técnico em Informática para Internet/01 - IPI-M1/Módulo 1 - Atividades/Etapa 3/Scisense/obj/Debug/netcoreapp3.1/Razor/Views/Matricula/Listar.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\appsettings.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\Scisense.exe
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\Scisense.deps.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\Scisense.runtimeconfig.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\Scisense.runtimeconfig.dev.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\Scisense.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\Scisense.pdb
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\Scisense.Views.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\Scisense.Views.pdb
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.csprojAssemblyReference.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.AssemblyInfoInputs.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.AssemblyInfo.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.csproj.CoreCompileInputs.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.MvcApplicationPartsAssemblyInfo.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.RazorAssemblyInfo.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.RazorAssemblyInfo.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.TagHelpers.input.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.TagHelpers.output.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.RazorCoreGenerate.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Cursos\Cadastro.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Cursos\Editar.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Cursos\Listar.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.RazorTargetAssemblyInfo.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.RazorTargetAssemblyInfo.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.Views.pdb
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.csproj.CopyComplete
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\staticwebassets\Scisense.StaticWebAssets.Manifest.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\staticwebassets\Scisense.StaticWebAssets.xml
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.pdb
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Scisense.genruntimeconfig.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Login.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Home\Legislacao.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Home\Inbox.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Cadastro.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Editar.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Listar.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Conteudo\Cadastro.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Conteudo\Editar.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Conteudo\Listar.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Home\Institucional.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs

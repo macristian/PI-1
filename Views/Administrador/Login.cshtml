@@ -1,0 +1,36 @@
+@model Administrador
+@using Microsoft.AspNetCore.Http
+@{
+
+    ViewData["Title"] = "Login";
+}
+<!--<div class="container">-->
+<div class="row justify-content-md-center">
+    <div class="jumbotron col-6">
+        @if (Context.Session.GetInt32("idAdm") != null)
+
+        {
+            <span>
+                <center><h1>Bem vindo ao sistema! @Context.Session.GetString("UserFullName")</h1></center>
+            </span>
+        }
+
+        else
+
+        {
+            <h1>Login</h1>
+            <form asp-action="Login" method="POST">
+                <div class="form-group">
+                    <input type="text" class="form-control" asp-for="Login" placeholder="Login" />
+                </div>
+                <div class="form-group">
+                    <input class="form-control" asp-for="Password" type="password" placeholder="Senha" />
+                </div>
+                <input type="submit" class="btn btn-success btn-lg" value="Entrar" />
+            </form>
+
+        }
+        <br><p class="text-danger">@ViewBag.MsgErro</p>
+    </div>
+</div>
+<!--</div> -->

@@ -1,0 +1,38 @@
+@model Conteudo
+@{
+
+    ViewData["Title"] = "Conteúdos";
+}
+<!--<div class="container">-->
+<div class="row justify-content-md-center">
+    <div class="jumbotron col-6">
+        <h2>Incluir Conteúdo</h2>
+        <form asp-action="Editar" method="POST">
+            <p>
+                <label asp-for="Image">URI da Imagem: </label>
+                <input placeholder="Nome do Curso" asp-for="Image" />
+            </p>
+            <p>
+                <label asp-for="Title">Título: </label>
+                <input placeholder="40h" asp-for="Title" />
+            </p>
+            <p>
+                <label asp-for="Content">Breve Descrição: </label>
+                <textarea placeholder="Descrição do Curso" asp-for="Content"></textarea>
+            </p>
+            <p>
+                <label asp-for="BtnLink">URL de Acesso: </label>
+                <input placeholder="URI da Imagem" asp-for="BtnLink" />
+            </p>
+            <p>
+                <input class="btn btn-success" type="submit" value="Cadastrar" />
+            </p>
+        </form>
+        <form asp-action="Cancelar" method="POST">
+            <input class="btn btn-danger" type="submit" value="Cancelar" />
+            </p>
+        </form>
+        <p class="text-success">@ViewBag.MsgCadastroC</p>
+    </div>
+</div>
+<!--</div> -->
