@@ -13,7 +13,7 @@
             </p>
             <p>
                 <label asp-for="Email">E-mail:</label>
-                <input placeholder="exemplo@exemplo.com" asp-for="Email" />
+                <input placeholder="nome@dominio.com" asp-for="Email" />
             </p>
             <p>
                 <label asp-for="ContactNum">Número para Contato:</label>
@@ -25,14 +25,10 @@
             </p>
             <p>
                 <label asp-for="Message">Mensagem:</label>
-                <textarea placeholder="Digite aqui sua mensagem" asp-for="Message"></textarea>
+                <textarea placeholder="Digite aqui a sua mensagem" asp-for="Message"></textarea>
             </p>
             <p>
                 <input class="btn btn-success" type="submit" value="Enviar" />
-            </p>
-        </form>
-        <form asp-action="Cancelar" method="POST">
-            <input class="btn btn-danger" type="submit" value="Cancelar" />
             </p>
         </form>
         <p class="text-success">@ViewBag.MsgCadastroCont</p>

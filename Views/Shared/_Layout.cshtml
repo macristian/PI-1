@@ -37,10 +37,23 @@
                             <a class="nav-link text-light" asp-area="" asp-controller="Conteudo"
                                 asp-action="Listar">Legislação</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-light" asp-area="" asp-controller="Contato"
-                                asp-action="Cadastro">Contato</a>
-                        </li>
+                        @if (Context.Session.GetInt32("idAdm") != null)
+
+                        {
+                            <span>
+                                <li class="nav-item">
+                                    <a class="nav-link text-light" asp-area="" asp-controller="Contato"
+                                        asp-action="Listar">Contato</a>
+                                </li>
+                            </span>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="Contato"
+                                    asp-action="Cadastro">Contato</a>
+                            </li>
+                        }
                     </ul>
                 </div>
                 <div style="float:right;">
@@ -82,17 +95,23 @@
             <center>
                 <table border="0" width="100%">
                     <tr>
-                        <td><center><img src="~/img/phone-call.svg" width="6%" />
-                            <h5><span style="color: #ffffff;">82 996 108 865</span> </h5></center>
+                        <td>
+                            <center><img src="~/img/phone-call.svg" width="6%" />
+                                <h5><span style="color: #ffffff;">(82) 996 108 865</span> </h5>
+                            </center>
                         </td>
-                        <td><center><img src="~/img/pin.svg" width="6%" />
-                            <h5><span style="color: #ffffff;">Universidade Federal de Alagoas - UFAL <br> Campus de
-                                    Engenharia e Ciências Agrárias – CECA<br>Laboratório de Propagaçãode
-                                    Plantas<br> BR105, Km 85, S/N – Mata do Rolo <br> CEP 57100-000 – Rio Largo,
-                                    AL</span></h5></center>
+                        <td>
+                            <center><img src="~/img/pin.svg" width="6%" />
+                                <h5><span style="color: #ffffff;">Universidade Federal de Alagoas - UFAL <br> Campus de
+                                        Engenharia e Ciências Agrárias - CECA<br>Laboratório de Propagaçãode
+                                        Plantas<br> BR105, Km 85, S/N - Mata do Rolo <br> CEP 57100-000 - Rio Largo,
+                                        AL</span></h5>
+                            </center>
                         </td>
-                        <td><center><img src="~/img/arroba.svg" width="6%" />
-                            <h5><span style="color: #ffffff;">www.sci.tec.br <br> scisense.tec@gmail.com</span></h5></center>
+                        <td>
+                            <center><img src="~/img/arroba.svg" width="6%" />
+                                <h5><span style="color: #ffffff;">www.sci.tec.br <br> scisense.tec@gmail.com</span></h5>
+                            </center>
                         </td>
                     </tr>
                 </table>

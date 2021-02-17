@@ -91,3 +91,13 @@ G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1
 G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Conteudo\Listar.cshtml.g.cs
 G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Home\Institucional.cshtml.g.cs
 G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\publish\appsettings.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\publish\web.config
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\publish\Scisense.deps.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\publish\Scisense.runtimeconfig.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\publish\publish\web.config
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\publish\publish\appsettings.Development.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\publish\publish\appsettings.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\publish\publish\Scisense.deps.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\01 - IPI-M1\Módulo 1 - Atividades\Etapa 3\Scisense\bin\Debug\netcoreapp3.1\publish\publish\Scisense.runtimeconfig.json
