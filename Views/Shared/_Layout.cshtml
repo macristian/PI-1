@@ -37,6 +37,9 @@
                             <a class="nav-link text-light" asp-area="" asp-controller="Conteudo"
                                 asp-action="Listar">Legislação</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" href="/Folheto.pdf">Folheto</a>
+                        </li>
                         @if (Context.Session.GetInt32("idAdm") != null)
 
                         {
@@ -66,7 +69,7 @@
                             @if (Context.Session.GetString("idAdm") != null)
                             {
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link text-dark dropdown-toggle" data-toggle="dropdown" href="#"></a>
+                                    <a class="nav-link text-light dropdown-toggle" data-toggle="dropdown" href="#"></a>
                                     <div class="dropdown-menu" aria-labelledby="menuAdmin">
                                         <a class="dropdown-item" href="/Contato/Listar">Inbox</a>
                                         <a class="dropdown-item" href="/Conteudo/Listar">Editar Conteúdo</a>
@@ -103,8 +106,9 @@
                         <td>
                             <center><img src="~/img/pin.svg" width="6%" />
                                 <h5><span style="color: #ffffff;">Universidade Federal de Alagoas - UFAL <br> Campus de
-                                        Engenharia e Ciências Agrárias - CECA<br>Laboratório de Propagaçãode
-                                        Plantas<br> BR105, Km 85, S/N - Mata do Rolo <br> CEP 57100-000 - Rio Largo,
+                                        Engenharia e Ciências Agrárias - CECA<br>Laboratório de Propagação de
+                                        Plantas<br>
+                                        BR105, Km 85, S/N - Mata do Rolo <br> CEP 57100-000 - Rio Largo,
                                         AL</span></h5>
                             </center>
                         </td>

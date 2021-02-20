@@ -1,4 +1,4 @@
 {
-    "appService.defaultWebAppToDeploy": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/eafa93cc-9610-4032-b025-d9669b270b0b/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/scisense",
     "appService.deploySubpath": "publish"
 }

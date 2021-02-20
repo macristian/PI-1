@@ -10,19 +10,19 @@
         <form asp-action="Cadastro" method="POST">
             <p>
                 <label asp-for="Title">Título: </label>
-                <input placeholder="Título" asp-for="Title" />
+                <input placeholder="Título" asp-for="Title" required/>
             </p>
             <p>
                 <label asp-for="Content">Breve Descrição: </label>
-                <textarea placeholder="Descrição" asp-for="Content"></textarea>
+                <textarea placeholder="Descrição" asp-for="Content" required></textarea>
             </p>
             <p>
                 <label asp-for="BtnLink">Link da URL: </label>
-                <input placeholder="http://..." asp-for="BtnLink" />
+                <input placeholder="http://..." asp-for="BtnLink" required/>
             </p>
             <p>
                 <label asp-for="Image">Imagem de Capa: </label>
-                <input placeholder="URI da Imagem" asp-for="Image" />
+                <input placeholder="URI da Imagem" asp-for="Image" required/>
             </p>
             <p>
                 <input class="btn btn-success" type="submit" value="Cadastrar" />

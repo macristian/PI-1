@@ -9,7 +9,7 @@ namespace Scisense.Models
         {
             MySqlConnection conexao = new MySqlConnection(_strConexao);
             conexao.Open();
-            string sql = "INSERT INTO inbox (Name, Email, ContactNum, Subject, Message, Readed) VALUES (@Name, @Email, @ContactNum, @Subject, @Message, 'https://support.orcid.org/hc/article_attachments/360053920013/sofia_inbox.jpg')";
+            string sql = "INSERT INTO inbox (Name, Email, ContactNum, Subject, Message, Readed) VALUES (@Name, @Email, @ContactNum, @Subject, @Message, 'https://scisense.000webhostapp.com/img/closed.jpg')";
             MySqlCommand comando = new MySqlCommand(sql, conexao);
             comando.Parameters.AddWithValue("@Name", novoCont.Name);
             comando.Parameters.AddWithValue("@Email", novoCont.Email);
@@ -62,7 +62,7 @@ namespace Scisense.Models
         {
             MySqlConnection conexao = new MySqlConnection(_strConexao);
             conexao.Open();
-            string sql = "UPDATE inbox SET Readed = 'https://www.mailbiz.com.br/wp-content/uploads/bfi_thumb/double-optin-email-marketing-2z7n56q1ezaqnhjn1je78s89oc65an2gb4q28m6xmnkbm9akw.jpg' WHERE Id = @Id;";
+            string sql = "UPDATE inbox SET Readed = 'https://scisense.000webhostapp.com/img/opened.jpg' WHERE Id = @Id;";
             MySqlCommand comando = new MySqlCommand(sql, conexao);
             comando.Parameters.AddWithValue("@Id", editarCont.Id);
             comando.ExecuteNonQuery();

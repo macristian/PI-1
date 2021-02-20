@@ -10,22 +10,22 @@
         <form asp-action="Cadastro" method="POST">
             <p>
                 <label asp-for="NameCourse">Nome do Curso:</label>
-                <input placeholder="Nome do Curso" asp-for="NameCourse" />
+                <input placeholder="Nome do Curso" asp-for="NameCourse" required/>
             </p>
             <p>
                 <label asp-for="Workload">Carga Horária:</label>
-                <input placeholder="40h" asp-for="Workload" />
+                <input placeholder="40h" asp-for="Workload" required/>
             </p>
             <p>
                 <label asp-for="DetailsCourse">Descrição do Curso:</label>
-                <textarea placeholder="Descrição do Curso" asp-for="DetailsCourse"></textarea>
+                <textarea placeholder="Descrição do Curso" asp-for="DetailsCourse" required></textarea>
             </p>
             <p>
                 <label asp-for="ThumbnailUri">Imagem de Capa:</label>
-                <input placeholder="URI da Imagem" asp-for="ThumbnailUri" />
+                <input placeholder="URI da Imagem" asp-for="ThumbnailUri" required/>
             </p>
             <p>
-                <input class="btn btn-success" type="submit" value="Cadastrar" />
+                <input class="btn btn-success" type="submit" value="Cadastrar" required/>
             </p>
         </form>
         <p class="text-success">@ViewBag.MsgCadastroC</p>

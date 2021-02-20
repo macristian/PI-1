@@ -12,18 +12,15 @@
 <div class="container">
     <div class="row d-flex justify-content-center">
         @foreach (Contato cont in Model)
-
-
-
         {
             <div class="card mb-3 mr-3" style="width: 100rem;">
                 <img src="@cont.Readed" class="card-img-top" alt="Inbox">
                 <div class="card-body">
-                    <h5 class="card-title">@cont.Subject </h5>
-                    <p>@cont.Name </p>
+                    <h5 class="card-title">@cont.Name </h5>
                     <p>@cont.ContactNum <a href="mailto:@cont.Email">
                             < @cont.Email>
                         </a></p>
+                    <p>@cont.Subject </p>
                     <p class="card-text">@cont.Message</p>
                     <a href="/Contato/Editar?Id=@cont.Id" class="btn btn-outline-success">Visualizado</a>
                     <a href="/Contato/Excluir?Id=@cont.Id" class="btn btn-outline-danger">Excluir</a>

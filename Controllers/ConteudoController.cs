@@ -42,10 +42,10 @@ namespace Scisense.Controllers
         {
             if (HttpContext.Session.GetInt32("idAdm") == null)
                 return RedirectToAction("Login", "Administrador");
-            ConteudoRepository course = new ConteudoRepository();
-            course.Editar(c);
-            ViewBag.MsgEditarC = "Conteúdo Editado com sucesso!";
-            return RedirectToAction("Editar");
+            ConteudoRepository ct = new ConteudoRepository();
+            ct.Editar(c);
+            ViewBag.MsgEditarC = "Curso editado com sucesso";
+            return View();
         }
     }
 }

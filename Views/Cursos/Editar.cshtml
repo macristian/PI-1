@@ -1,7 +1,7 @@
 @model Cursos
 @{
 
-    ViewData["Title"] = "Editar Curso";
+    ViewData["Title"] = "Cursos";
 }
 <!--<div class="container">-->
 <div class="row justify-content-md-center">
@@ -28,11 +28,7 @@
                 <input class="btn btn-success" type="submit" value="Editar" />
             </p>
         </form>
-        <form asp-action="Cancelar" method="POST">
-            <input class="btn btn-danger" type="submit" value="Cancelar" />
-            </p>
-        </form>
-        <p class="text-success">@ViewBag.MsgEditarC</p>
+        <p class="text-success">@ViewBag.MsgCadastroC</p>
     </div>
 </div>
 <!--</div> -->

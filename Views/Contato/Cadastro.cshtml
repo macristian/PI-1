@@ -9,15 +9,15 @@
         <form asp-action="Cadastro" method="POST">
             <p>
                 <label asp-for="Name">Seu Nome:</label>
-                <input placeholder="Seu Nome" asp-for="Name" />
+                <input placeholder="Seu Nome" asp-for="Name" required/>
             </p>
             <p>
                 <label asp-for="Email">E-mail:</label>
-                <input placeholder="nome@dominio.com" asp-for="Email" />
+                <input placeholder="nome@dominio.com" asp-for="Email" required/>
             </p>
             <p>
                 <label asp-for="ContactNum">Número para Contato:</label>
-                <input placeholder="DDD + Número" asp-for="ContactNum" />
+                <input placeholder="DDD + Número" asp-for="ContactNum" required/>
             </p>
             <p>
                 <label asp-for="Subject">Assunto:</label>
@@ -25,7 +25,7 @@
             </p>
             <p>
                 <label asp-for="Message">Mensagem:</label>
-                <textarea placeholder="Digite aqui a sua mensagem" asp-for="Message"></textarea>
+                <textarea placeholder="Digite aqui a sua mensagem" asp-for="Message" required></textarea>
             </p>
             <p>
                 <input class="btn btn-success" type="submit" value="Enviar" />
