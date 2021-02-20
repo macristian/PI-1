@@ -47,7 +47,7 @@ namespace Scisense.Models
         {
             MySqlConnection conexao = new MySqlConnection(_strConexao);
             conexao.Open();
-            string sql = "DELETE FROM contentCard WHERE Id = @Id";
+            string sql = "DELETE FROM contentcard WHERE Id = @Id";
             MySqlCommand comando = new MySqlCommand(sql, conexao);
             comando.Parameters.AddWithValue("@Id", excluiConteudo.Id);
             comando.ExecuteNonQuery();
@@ -57,7 +57,7 @@ namespace Scisense.Models
         {
             MySqlConnection conexao = new MySqlConnection(_strConexao);
             conexao.Open();
-            string sql = "UPDATE contentCard SET Image = @Image, Title = @Title, Content = @Content, BtnLink = @BtnLink WHERE Id = @Id";
+            string sql = "UPDATE contentcard SET Image = @Image, Title = @Title, Content = @Content, BtnLink = @BtnLink WHERE Id = @Id";
             MySqlCommand comando = new MySqlCommand(sql, conexao);
             comando.Parameters.AddWithValue("@Id", editarConteudo.Id);
             comando.Parameters.AddWithValue("@Image", editarConteudo.Image);
