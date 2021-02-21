@@ -25,7 +25,6 @@
                     <p class="card-text">@c.DetailsCourse</p>
                     @if (Context.Session.GetString("idAdm") != null)
                     {
-                        <a href="/Cursos/Editar?IdCourse=@c.IdCourse" class="btn btn-outline-primary">Editar</a>
                         <a href="/Cursos/Excluir?IdCourse=@c.IdCourse" class="btn btn-outline-danger">Excluir</a>
 
                     }
